@@ -1,0 +1,25 @@
+html,
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*********************************************************
+                    Navbar CSS
+/*********************************************************/
+.main-navbar {
+    background: white;
+}
+
+.main-navbar .nav-link {
+    font-weight: bold;
+}
+
+/*********************************************************
+                    Header CSS
+/*********************************************************/
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid transparent;
+}
